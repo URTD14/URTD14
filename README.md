@@ -162,12 +162,20 @@ Production-grade **demand forecasting model** deployed live. Real data pipeline,
 
 <div align="center">
 
-**ML & AI**&nbsp;
+**Core ML**&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**AI Agents & LLMs**&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00E5CC?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Protocol-8B5CF6?style=flat-square)
 
 **Quant & Finance**&nbsp;
 ![Pine Script](https://img.shields.io/badge/Pine_Script-2962FF?style=flat-square&logo=tradingview&logoColor=white)
@@ -178,7 +186,7 @@ Production-grade **demand forecasting model** deployed live. Real data pipeline,
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-8B5CF6?style=flat-square)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
