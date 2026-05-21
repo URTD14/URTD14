@@ -19,7 +19,6 @@
 
 ## ⚡ Who I Am
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=URTD14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00E5CC&icon_color=00E5CC&text_color=c9d1d9&bg_color=0d1117" />
 
 🏦 &nbsp;**Technical Co-founder @ GLOQONT**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-trade risk & scenario intelligence engine
@@ -40,7 +39,7 @@
 
 📍 Gandhinagar, India &nbsp;·&nbsp; 🎓 BTech CE @ IAR &nbsp;·&nbsp; 19
 
-<br clear="right"/>
+
 
 ---
 
@@ -148,9 +147,6 @@ Production-grade **demand forecasting model** deployed live. Real data pipeline,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=URTD14&layout=compact&theme=github_dark&hide_border=true&title_color=00E5CC&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="155"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=URTD14&bg_color=0d1117&color=00E5CC&line=00E5CC&point=ffffff&area=true&hide_border=true&area_color=0a2a2a" width="100%"/>
 
